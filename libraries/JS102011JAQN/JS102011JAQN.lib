@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# JS102011JAQN
+#
+DEF JS102011JAQN S 0 40 Y Y 1 L N
+F0 "S" -200 220 50 H V L BNN
+F1 "JS102011JAQN" -200 -300 50 H V L BNN
+F2 "SW_JS102011JAQN" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "C&K" 0 0 50 H I L BNN "MANUFACTURER"
+F6 "29 June 16" 0 0 50 H I L BNN "PARTREV"
+DRAW
+S 20 -10 90 130 0 0 0 F
+P 2 0 0 10 150 130 150 -80 N
+P 2 0 0 10 150 -100 120 -60 N
+P 2 0 0 10 120 -60 180 -60 N
+P 2 0 0 10 180 -60 150 -100 N
+P 2 0 0 10 150 -100 150 -80 N
+P 2 0 0 10 150 -80 140 -70 N
+P 2 0 0 10 140 -70 160 -70 N
+P 3 0 0 10 120 -60 180 -60 150 -100 f
+S -200 -200 200 200 0 0 10 f
+X 1 1 -400 100 200 R 40 40 0 0 P 
+X 1 1.1 -400 100 200 R 40 40 0 0 P 
+X 2 2 -400 0 200 R 40 40 0 0 P 
+X 2 2.1 -400 0 200 R 40 40 0 0 P 
+X 3 3 -400 -100 200 R 40 40 0 0 P 
+X 3 3.1 -400 -100 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

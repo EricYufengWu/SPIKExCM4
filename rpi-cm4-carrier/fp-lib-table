@@ -1,0 +1,13 @@
+(fp_lib_table
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "BQ25616RTWT")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/BQ25616RTWT/BQ25616RTWT.pretty")(options "")(descr ""))
+  (lib (name "SMBJ50A")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/ul_SMBJ50ATR/ul_SMBJ50ATR.pretty")(options "")(descr ""))
+  (lib (name "ul_SPM5020T1R0M")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/ul_SPM5020T1R0M/ul_SPM5020T1R0M.pretty")(options "")(descr ""))
+  (lib (name "SM04B-SRSS-TB_LF__SN_")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/SM04B-SRSS-TB_LF__SN_/SM04B-SRSS-TB_LF__SN_.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/USB4105-GF-A/USB4105-GF-A.pretty")(options "")(descr ""))
+  (lib (name "ul_UJCHP3SMTTR")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/ul_UJCHP3SMTTR/ul_UJCHP3SMTTR.pretty")(options "")(descr ""))
+  (lib (name "ul_MCP73871T1AAIML")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/ul_MCP73871T1AAIML/ul_MCP73871T1AAIML.pretty")(options "")(descr ""))
+  (lib (name "ul_TPS61235PRWLR")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/ul_TPS61235PRWLR/ul_TPS61235PRWLR.pretty")(options "")(descr ""))
+  (lib (name "ul_ESDA6V1L")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/ul_ESDA6V1L/ul_ESDA6V1L.pretty")(options "")(descr ""))
+  (lib (name "JS102011JAQN")(type "KiCad")(uri "C:/Users/86182/Desktop/Tufts/_2021_Spring/ME-0193/ME-0193/P6/libraries/JS102011JAQN/JS102011JAQN.pretty")(options "")(descr ""))
+)

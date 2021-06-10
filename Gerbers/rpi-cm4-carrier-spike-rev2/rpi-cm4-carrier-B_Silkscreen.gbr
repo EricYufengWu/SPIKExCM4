@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.99.0-10362-gce3a84f579)*%
+%TF.CreationDate,2021-05-11T10:28:48-04:00*%
+%TF.ProjectId,rpi-cm4-carrier,7270692d-636d-4342-9d63-617272696572,v01*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Legend,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.99.0-10362-gce3a84f579)) date 2021-05-11 10:28:48*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,0.152400*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,J8*%
+X116330401Y-84274600D02*
+G75*
+G03*
+X116330401Y-84274600I-381000J0D01*
+G01*
+%TD*%
+M02*
