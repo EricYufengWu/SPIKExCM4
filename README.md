@@ -25,10 +25,8 @@ For more information about this project, please checkout https://www.yufengwu.co
 
 For thir carrier board specifically, you also might want to add the following to config.txt, since the GPIO pins for UART5 were also made available in case you want to use the console cable and UART at the same time.
 
-    ```
     dtoverlay=uart5
-    ```
-
+    
 1. If the TTL cable connection is successful, you may continue to set up other hardware, such as WiFi and USB, in order to release the full potential of your compute module. You may use a short microUSB to microUSB cable to connect your carriar board to a LEGO SPIKE Prime. Have fun hacking!
 
 
