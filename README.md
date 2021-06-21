@@ -18,7 +18,7 @@ To make this backpack yourself, you'll need the following hardware components:
 * Some right-angle pin headers. [Amazon Link](https://www.amazon.com/Uxcell-a14032500ux0426-Right-Header-Spacing/dp/B010ESD338/ref=sr_1_3?dchild=1&keywords=right+angle+pin+headers&qid=1624248428&sr=8-3)
 * A 3.7V Lithium Polymer (LiPoly) battery with JST-PH connector in the correct polarity. It has to be both slim enough to fit inside the housing and powerful enough to handle around 1.5A nominal and 3A burst current. [Digikey Link](https://www.digikey.com/en/products/detail/jauch-quartz/LP605060JU-PCM-WIRES-70MM/9560993?s=N4IgTCBcDaIDYAcBsAGArC1ArAriAugL5A)
 * A short microB male to microB male USB cable. [Digikey Link](https://www.digikey.com/en/products/detail/CAB0701/1778-1018-ND/6928231?itemSeq=364421679)
-* A standard hobbyist 3D printer with PLA filament (Prusa MK3S, Prusa MINI, Ender3, etc.)
+* A standard hobbyist 3D printer with PLA filament (Prusa MK3S, Prusa MINI, Ender3, etc.).
 
 
 ## Getting Started with the Carrier Board
