@@ -15,9 +15,9 @@ For more information about this project, please checkout https://www.yufengwu.co
 To make this backpack yourself, you'll need the following hardware components:
 * The carrier board PCB itself. I got the full assembly service from PCBWay, but you are welcome to find your own PCB manufacturer.
 * A [Raspberry Pi Compute Module 4](https://www.raspberrypi.org/products/compute-module-4/?variant=raspberry-pi-cm4001000) **with onboard EMMC and WiFi module**. 
-* Some right-angle pin headers: [Amazon Link](https://www.amazon.com/Uxcell-a14032500ux0426-Right-Header-Spacing/dp/B010ESD338/ref=sr_1_3?dchild=1&keywords=right+angle+pin+headers&qid=1624248428&sr=8-3)
+* Some right-angle pin headers. [Amazon Link](https://www.amazon.com/Uxcell-a14032500ux0426-Right-Header-Spacing/dp/B010ESD338/ref=sr_1_3?dchild=1&keywords=right+angle+pin+headers&qid=1624248428&sr=8-3)
 * A 3.7V Lithium Polymer (LiPoly) battery with JST-PH connector in the correct polarity. It has to be both slim enough to fit inside the housing and powerful enough to handle around 1.5A nominal and 3A burst current. [Digikey Link](https://www.digikey.com/en/products/detail/jauch-quartz/LP605060JU-PCM-WIRES-70MM/9560993?s=N4IgTCBcDaIDYAcBsAGArC1ArAriAugL5A)
-* A short microB male to microB male USB cable [Digikey Link](https://www.digikey.com/en/products/detail/CAB0701/1778-1018-ND/6928231?itemSeq=364421679)
+* A short microB male to microB male USB cable. [Digikey Link](https://www.digikey.com/en/products/detail/CAB0701/1778-1018-ND/6928231?itemSeq=364421679)
 * A standard hobbyist 3D printer with PLA filament (Prusa MK3S, Prusa MINI, Ender3, etc.)
 
 
