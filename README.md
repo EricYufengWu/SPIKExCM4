@@ -40,11 +40,6 @@ To make this backpack yourself, you'll need the following hardware components:
     dtoverlay=uart5
     ```
 
-1. In case you have not, remember to turn on USB interface on the compute module.
-    ```
-    dtoverlay=dwc2,dr_mode=host
-    ```
-
 1. If the TTL cable connection is successful, you may continue to set up other hardware, such as WiFi and USB, in order to release the full potential of your compute module. You may use a short microB male to microB male USB cable to connect your carriar board to a LEGO SPIKE Prime. To enable USB, add the following line to config.txt:
     ```
     dtoverlay=dwc2,dr_mode=host
