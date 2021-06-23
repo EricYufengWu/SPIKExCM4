@@ -2,7 +2,7 @@
 
 This is the final project for my Microcontrollers Programming Class. My professor gave us an open prompt which is "create something that is useful". With my previous experience and interests in designing LEGO Robotics expansion hardware, I developed a Raspberry Pi CM4 Carrier board specifically for the LEGO SPIKE Prime educational system. In short, this is a slim, self-contained add-on to the SPIKE Prime hub. It gives the educational platform a huge boost in computational power and peripheral connectivity, making it capable of running tasks such as image processing, machine learning, ROS, and more.
 
-**Note: As of June 23rd, 2021, the camera ports unfortunately do not work on the current version (in short, I made a dumb mistake of using a different footprint for the camera connectors, which has all the pins backwards). Connecting a camera may result in the flex cable heating up or possibly some permanent damage to the CM$ board. If I ever got the chance to make another design iteration, this will be the first thing I will tackle.**
+**Note: As of June 23rd, 2021, the camera ports unfortunately do not work on the current version (In short, I made a dumb mistake of using a different footprint for the camera connectors, which has all the pins backwards). Connecting a camera may result in the flex cable heating up or possibly some permanent damage to the CM4 board. If I ever got the chance to make another design iteration, this will be the first thing I will tackle. :(**
 
 Youtube: https://youtu.be/AbPgGo25kjA
 
