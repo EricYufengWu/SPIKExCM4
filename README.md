@@ -2,6 +2,8 @@
 
 This is the final project for my Microcontrollers Programming Class. My professor gave us an open prompt which is "create something that is useful". With my previous experience and interests in designing LEGO Robotics expansion hardware, I developed a Raspberry Pi CM4 Carrier board specifically for the LEGO SPIKE Prime educational system. In short, this is a slim, self-contained add-on to the SPIKE Prime hub. It gives the educational platform a huge boost in computational power and peripheral connectivity, making it capable of running tasks such as image processing, machine learning, ROS, and more.
 
+**Note: As of June 23rd, 2021, the camera ports unfortunately do not work on the current version (in short, I made a dumb mistake of using a different footprint for the camera connectors, which has all the pins backwards). Connecting a camera may result in the flex cable heating up or possibly some permanent damage to the CM$ board. If I ever got the chance to make another design iteration, this will be the first thing I will tackle.**
+
 Youtube: https://youtu.be/AbPgGo25kjA
 
 GrabCAD: https://grabcad.com/library/raspberry-pi-cm4-carrier-board-for-lego-spike-prime-1
@@ -23,10 +25,14 @@ To make this backpack yourself, you'll need the following hardware components:
 
 ## Getting Started with the Carrier Board
 1. Install the compute module onto the carrier board. Make sure to get one with EMMC memory (you probably want one with WiFi as well)
+![CM4](https://github.com/EricYufengWu/SPIKExCM4/blob/master/Documentation/1.jpeg)
 
 1. Close the jumper (see pic) to disable EMMC boot. 
+![Jumper Open](https://github.com/EricYufengWu/SPIKExCM4/blob/master/Documentation/2.jpeg)
+![Jumper Closed](https://github.com/EricYufengWu/SPIKExCM4/blob/master/Documentation/3.jpeg)
 
 1. Connect a microUSB data cable from the OTG port (the one closer to the corner) to your laptop.
+![OTG](https://github.com/EricYufengWu/SPIKExCM4/blob/master/Documentation/4.jpeg)
 
 1. Follow [this link](https://www.raspberrypi.org/documentation/hardware/computemodule/cm-emmc-flashing.md) to flash the compute module's EMMC. The spscific steps depend on your computer's operating system (see the link for details). After this, you should have an operating system of your choice installed on the compute module. 
 
@@ -34,6 +40,7 @@ To make this backpack yourself, you'll need the following hardware components:
     ```
     enable_uart=1
     ```
+![Serial Console](https://github.com/EricYufengWu/SPIKExCM4/blob/master/Documentation/6.jpeg)
 
 1. For thir carrier board specifically, you also might want to add the following to config.txt, since the GPIO pins for UART5 were also made available in case you want to use the console cable and UART at the same time.
     ```
